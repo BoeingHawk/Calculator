@@ -1,7 +1,6 @@
 Hello World!
 
 This is my first Web Development project.
-
 I developed a simple calculator from HTML,CSS and JavaScript.
 
 The index.html file is the HTML file.
